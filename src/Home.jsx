@@ -12,20 +12,20 @@ export default function Home() {
 
   const [firstLine, setFirstLine] = useState(
     {
-      text: "Matcha",
+      text: "I'm running perfectly!",
       appearance: 30
     }
   )
 
   const [secondLine, setSecondLine] = useState(
     {
-      text: "Snoopy",
+      text: "Five minutes later:",
       appearance: 30
     }
   )
   const [thirdLine, setThirdLine] = useState(
     {
-      text: "Notion",
+      text: "404 Not Found.",
       appearance: 30
     }
   )
